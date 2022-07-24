@@ -1,1 +1,1 @@
-# DLS final projects
+# MIPT Deep Learning School final projects
